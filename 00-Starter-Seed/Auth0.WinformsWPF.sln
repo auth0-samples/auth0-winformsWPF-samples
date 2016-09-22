@@ -5,6 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{23BEA5F3-6F83-4B42-9500-9D2F0933A220}"
 	ProjectSection(SolutionItems) = preProject
+		auth0-variables.cs = auth0-variables.cs
 		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
