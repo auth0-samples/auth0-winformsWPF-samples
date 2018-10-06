@@ -28,7 +28,7 @@
   TaskScheduler.FromCurrentSynchronizationContext());
   ~~~
 
-  ![](http://puu.sh/3YxF9.png)
+  ![](https://i.imgur.com/N4BaEjy.png)
 
 Or you can use the connection as a parameter (e.g. here we login with a Windows Azure AD account):
 
