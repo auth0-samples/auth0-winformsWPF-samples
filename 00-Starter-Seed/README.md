@@ -1,4 +1,4 @@
-# # Auth0 WinformsWPF  
+# Auth0 WinformsWPF  
 <img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/> <br>
 
 To start playing with our WinformsWPF sample make use of this repo.
