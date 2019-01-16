@@ -1,9 +1,9 @@
-# # Auth0 WinformsWPF Samples
+# Auth0 WinformsWPF Samples
 <img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/> <br>
 
-To start playing with our WinformsWPF sample make use of this repo. You can also view another sample [here]([https://github.com/auth0/Auth0.WinformsWPF](https://github.com/auth0/Auth0.WinformsWPF))
+To start playing with our WinformsWPF sample make use of this repo.
 
-This repo is supported and maintained by Community Developers, not Auth0. For more information about different support levels check https://auth0.com/docs/support/matrix .
+This repo is supported and maintained by Community Developers, not Auth0. For more information about different support levels check https://auth0.com/docs/support/matrix.
 
 ## Contribute
 
