@@ -1,5 +1,4 @@
 ﻿using Auth0.Windows;
-using System.Configuration;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Interop;
@@ -16,8 +15,7 @@ namespace WpfSample
             InitializeComponent();
         }
 
-        private Auth0Client auth0 = new Auth0Client(ConfigurationManager.AppSettings["auth0:Domain"], 
-                                                    ConfigurationManager.AppSettings["auth0:ClientId"]);
+        private Auth0Client auth0 = new Auth0Client(Auth0Configuration.AUTH0_DOMAIN, Auth0Configuration.AUTH0_CLIENT_ID);
 
         private void LoginWithWidget_Click(object sender, RoutedEventArgs e)
         {

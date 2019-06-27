@@ -13,8 +13,7 @@ namespace WinformsSample
             InitializeComponent();
         }
 
-        private Auth0Client auth0 = new Auth0Client(ConfigurationManager.AppSettings["auth0:Domain"],
-                                                    ConfigurationManager.AppSettings["auth0:ClientId"]);
+        private Auth0Client auth0 = new Auth0Client(Auth0Configuration.AUTH0_DOMAIN, Auth0Configuration.AUTH0_CLIENT_ID);
 
         private void LoginWithWidgetButton_Click(object sender, EventArgs e)
         {
